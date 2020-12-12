@@ -1,0 +1,10 @@
+workers = 0
+WORKERS_MAX = 75
+progress = 0
+PROGRESS_MAX = 400  
+PRODUCTION_RATE = 2
+FOOD_INCREMENT = 400
+BUILD_WIDTH = 2
+BUILD_HEIGHT = 2
+image_speed = 0
+depth = global.DEPTH_GAME
