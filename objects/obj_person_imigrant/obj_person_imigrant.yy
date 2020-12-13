@@ -26,7 +26,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Walkers",
-    "path": "folders/Objects/Walkers.yy",
+    "path": "folders/Objects/Game/Walkers.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_person_imigrant",

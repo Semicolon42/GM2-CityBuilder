@@ -11,7 +11,10 @@ function scr_building_width(obj){
 	}
 }
 
+
 function scr_building_height(obj){
+	approach(1,2,3)
+	
 	switch(obj) {
 	    case obj_house:
 		    return 1

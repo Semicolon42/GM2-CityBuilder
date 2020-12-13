@@ -26,7 +26,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Buildings",
-    "path": "folders/Objects/Buildings.yy",
+    "path": "folders/Objects/Game/Buildings.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_launch_pad",

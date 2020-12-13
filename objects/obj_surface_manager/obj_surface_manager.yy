@@ -29,7 +29,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Level Controllers",
-    "path": "folders/Objects/Level Controllers.yy",
+    "path": "folders/Objects/Game/Level Controllers.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_surface_manager",

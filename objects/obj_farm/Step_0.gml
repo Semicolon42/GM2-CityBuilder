@@ -2,7 +2,7 @@
 // You can write your code in this editor
 image_speed = 0
 image_index = round(sprite_get_number(sprite_index) * progress / PROGRESS_MAX)
-progress += ceil(PRODUCTION_RATE * workers / WORKERS_MAX)
+progress += ceil(PRODUCTION_RATE * workers / WORKERS_MAX) * global.GAME_SPEED
 
 if progress > PROGRESS_MAX {
      progress = 0

@@ -1,7 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-timer_city_census -= 1
+
+
+timer_city_census -= 1 * global.GAME_SPEED
 if(timer_city_census <= 0) {
 	timer_city_census = TIMER_CITY_CENSUS_MAX
 	
@@ -37,3 +39,5 @@ if(timer_city_census <= 0) {
 		}
 	}
 }
+
+

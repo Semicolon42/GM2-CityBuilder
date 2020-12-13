@@ -19,3 +19,8 @@ TIMER_CITY_CENSUS_MAX = 100
 if(global.DEBUG) {
 	total_people_attracted = 100
 }
+
+global.GAME_SPEED = 1
+global.GAME_SPEED_UNPAUSE = 1
+speed_counter = 0
+speed_normal_counter = 0

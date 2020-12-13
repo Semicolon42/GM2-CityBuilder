@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if (obj_city_controller.total_people < obj_city_controller.total_housing_available)
-    imigrant_time -= 1
+    imigrant_time -= global.GAME_SPEED
 	
 if (imigrant_time <= 0) {
     imigrant_time = IMIGRANT_TIMER_MAX
